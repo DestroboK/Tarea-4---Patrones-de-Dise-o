@@ -1,0 +1,7 @@
+C:\Users\Kelvin\source\repos\Patron Factory\bin\Debug\Patron Factory.exe.config
+C:\Users\Kelvin\source\repos\Patron Factory\bin\Debug\Patron Factory.exe
+C:\Users\Kelvin\source\repos\Patron Factory\bin\Debug\Patron Factory.pdb
+C:\Users\Kelvin\source\repos\Patron Factory\obj\Debug\Patron Factory.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\repos\Patron Factory\obj\Debug\Patron Factory.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\Patron Factory\obj\Debug\Patron Factory.exe
+C:\Users\Kelvin\source\repos\Patron Factory\obj\Debug\Patron Factory.pdb

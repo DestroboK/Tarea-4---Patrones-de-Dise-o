@@ -1,0 +1,2 @@
+C:\Users\Kelvin\source\repos\Tarea 4 - Patrones de Diseño.Kelvin\obj\Debug\Tarea 4 - Patrones de Diseño.Kelvin.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\repos\Tarea 4 - Patrones de Diseño.Kelvin\obj\Debug\Tarea 4 - Patrones de Diseño.Kelvin.csproj.CoreCompileInputs.cache

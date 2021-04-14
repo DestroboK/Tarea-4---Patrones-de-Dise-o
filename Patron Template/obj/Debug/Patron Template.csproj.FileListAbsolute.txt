@@ -1,0 +1,7 @@
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\obj\Debug\Patron Template.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\obj\Debug\Patron Template.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\bin\Debug\Patron Template.exe.config
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\bin\Debug\Patron Template.exe
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\bin\Debug\Patron Template.pdb
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\obj\Debug\Patron Template.exe
+C:\Users\Kelvin\source\repos\ExtrayendoPrueba1\Patron Template\obj\Debug\Patron Template.pdb

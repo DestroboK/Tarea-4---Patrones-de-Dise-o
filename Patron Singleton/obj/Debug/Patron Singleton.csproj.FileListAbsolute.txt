@@ -1,0 +1,7 @@
+C:\Users\Kelvin\source\repos\Patron Singleton\bin\Debug\Patron Singleton.exe.config
+C:\Users\Kelvin\source\repos\Patron Singleton\bin\Debug\Patron Singleton.exe
+C:\Users\Kelvin\source\repos\Patron Singleton\bin\Debug\Patron Singleton.pdb
+C:\Users\Kelvin\source\repos\Patron Singleton\obj\Debug\Patron Singleton.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\repos\Patron Singleton\obj\Debug\Patron Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\Patron Singleton\obj\Debug\Patron Singleton.exe
+C:\Users\Kelvin\source\repos\Patron Singleton\obj\Debug\Patron Singleton.pdb
